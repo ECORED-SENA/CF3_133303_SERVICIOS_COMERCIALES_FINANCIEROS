@@ -180,7 +180,7 @@
             .imagen-absolute3
               img(src='@/assets/curso/temas/img10.svg', alt='')
           .col-lg-10
-            p(data-aos="fade-down").mb-0.p-3 Se invita a profundizar más en la #[b gestión de la comunicación] en el contenido temático de la competencia, Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo, con los que se fortalecerá su gestión de comunicación con el cliente interno y externo en caja o en los servicios que preste y asignen.
+            p(data-aos="fade-down").mb-0.p-4 Se invita a profundizar más en la #[b gestión de la comunicación] en el contenido temático de la competencia, Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo, con los que se fortalecerá su gestión de comunicación con el cliente interno y externo en caja o en los servicios que preste y asignen.
 </template>
 
 <script>
