@@ -80,11 +80,11 @@
             .col-md-7.mb-4.mb-md-0
               h4(data-aos="fade-down") Información que debe solicitar.
               p(data-aos="fade-down") Se hace el contacto inicial y se le solicita al cliente identificarse por medio de un formulario, ya sea para persona natural o jurídica.
-            .col-md-4
+            .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img58.svg', alt='')
    
           .row.justify-content-center.align-items-center
-            .col-md-4
+            .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img59.svg', alt='')          
             .col-md-7.mb-4.mb-md-0
               h4(data-aos="fade-down") Información adicional
@@ -94,11 +94,11 @@
             .col-md-7.mb-4.mb-md-0
               h4(data-aos="fade-down") Diligenciamiento de formularios.
               p(data-aos="fade-down") El cliente diligencia los formularios pertinentes a los productos o servicios que desea adquirir o que van a generar un vinculo comercial con la entidad según sea el caso.
-            .col-md-4
+            .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img60.svg', alt='')
    
           .row.justify-content-center.align-items-center
-            .col-md-4
+            .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img61.svg', alt='')          
             .col-md-7.mb-4.mb-md-0
               h4(data-aos="fade-down") Verificación general.
@@ -179,7 +179,7 @@
             .tarjeta-flip__img
               img.mb-4(src='@/assets/curso/temas/img67.svg', alt='Control')
               h5.bgflip.p-3.mx-3.text-white Control
-            .tarjeta-flip__contenido.p-4
+            .tarjeta-flip__contenido.p-4.py-5
               h5 Control
               p.mb-0 Son medidas para mitigar el riesgo, es decir crear actividades para prevenir, reducir o acabar los riesgos asociados generando una protección a las actividades.   
       .col-sm-6.col-xl-3.mb-4
