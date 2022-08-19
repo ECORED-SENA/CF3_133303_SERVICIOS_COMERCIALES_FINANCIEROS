@@ -17,19 +17,19 @@
         p.mb-0 #[b Sarlaft] – Prevención del riesgo 
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-3
+      .col-lg-3.my-3
         .crd1.crd1--100.crd1-green.p-4(data-aos="flip-down")
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img52.svg', alt='')
           p(data-aos="fade-down").mt-4.mb-0 Identificación del riesgo por parte de la empresa de lavado de activos o financiación del terrorismo, por medio de los mecanismos implementados.
-      .col-lg-3
+      .col-lg-3.my-3
         .crd1.crd1--100.crd1-green.p-4(data-aos="flip-down")
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img53.svg', alt='')
           p(data-aos="fade-down").mt-4.mb-0 Medir la probabilidad del riesgo, en cuanto a qué nivel se puede presentar y su impacto en la organización.
-      .col-lg-3
+      .col-lg-3.my-3
         .crd1.crd1--100.crd1-green.p-4(data-aos="flip-down")
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img54.svg', alt='')
           p(data-aos="fade-down").mt-4.mb-0 Generar estrategias para controlar el riesgo, según la amenaza evidenciada y su probabilidad.
-      .col-lg-3
+      .col-lg-3.my-3
         .crd1.crd1--100.crd1-green.p-4(data-aos="flip-down")
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img55.svg', alt='')
           p(data-aos="fade-down").mt-4.mb-0 Monitorear el riesgo, haciendo seguimiento continuo.
