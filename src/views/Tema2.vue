@@ -154,7 +154,7 @@
     ModalA(:abrir-modal.sync="modal1")
       .row.align-items-center
         .col-11
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img23.jpg', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img23.png', alt='')
 
     p(data-aos="fade-down").mb-5 Luego de comprender la importancia del portafolio de servicios financieros se invita al aprendiz a indagar un poco más, sobre los diferentes tipos que existen en línea de las diferentes entidades y, sobre todo, una vez esté en su gestión en caja o en la labor financiera de la entidad donde ejerza lo conozca para poder ofrecerlo si es requerido.
 
