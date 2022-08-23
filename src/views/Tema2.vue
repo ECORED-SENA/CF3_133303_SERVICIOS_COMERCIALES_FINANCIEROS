@@ -86,7 +86,7 @@
         .tarjeta.bg5
           .p-4.mt-5.text-center
             h4.mb-3 ¿Para quiénes son?
-            p.mb-0 Personas naturales, jurídicas o empresas 
+            p.mb-0 Personas naturales, jurídicas o empresas. 
 
       .tarjeta-avatar.crd.crd-100
         img.w(src='@/assets/curso/temas/img14.svg', alt='AvatarTop')
@@ -114,7 +114,7 @@
         .tarjeta.bg5
           .p-4.mt-5.text-center
             h4.mb-3 Canales de atención o comunicación
-            p.mb-0 Chatbots, líneas telefónicas de atención, líneas virtuales, correos y otros medios.
+            p.mb-0 #[i Chatbots], líneas telefónicas de atención, líneas virtuales, correos y otros medios.
 
       .tarjeta-avatar.crd.crd-100
         img.w(src='@/assets/curso/temas/img18.svg', alt='AvatarTop')
@@ -177,7 +177,7 @@
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p Anexo. Condiciones en algunos servicios financieros.
-
+    p(data-aos="fade-down").mb-5 Luego de haber conocido, algunas condiciones de servicio financiero, se presenta un ejemplo en un pro de reforzar el conocimiento en la siguiente imagen.
     .bg3.mb-5(data-aos="flip-down") 
       .tarjeta.p-4
         .row.justify-content-around.align-items-center.mt-1

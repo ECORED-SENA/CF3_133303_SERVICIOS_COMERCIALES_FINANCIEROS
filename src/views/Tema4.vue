@@ -78,7 +78,7 @@
         PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="fade-left")
           .row.justify-content-center.align-items-center
             .col-md-7.mb-4.mb-md-0
-              h4(data-aos="fade-down") Información que debe solicitar.
+              h4(data-aos="fade-down") Información que debe solicitar
               p(data-aos="fade-down") Se hace el contacto inicial y se le solicita al cliente identificarse por medio de un formulario, ya sea para persona natural o jurídica.
             .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img58.svg', alt='')
@@ -93,7 +93,7 @@
           .row.justify-content-center.align-items-center
             .col-md-7.mb-4.mb-md-0
               h4(data-aos="fade-down") Diligenciamiento de formularios.
-              p(data-aos="fade-down") El cliente diligencia los formularios pertinentes a los productos o servicios que desea adquirir o que van a generar un vinculo comercial con la entidad según sea el caso.
+              p(data-aos="fade-down") El cliente diligencia los formularios pertinentes a los productos o servicios que desea adquirir o que van a generar un vínculo comercial con la entidad según sea el caso.
             .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img60.svg', alt='')
    

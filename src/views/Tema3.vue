@@ -218,8 +218,8 @@
       .py-4.py-md-5(titulo="Creación de políticas" :icono="require('@/assets/curso/temas/1.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Creación de políticas:
-            p es el primer paso en donde se establecen las directrices como el diligenciamiento de los formularios, su presentación, cumplimiento  y demás normas. 
+            h4 Creación de políticas
+            p Es el primer paso en donde se establecen las directrices como el diligenciamiento de los formularios, su presentación, cumplimiento  y demás normas. 
         
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/1_1.svg', alt='')
@@ -227,32 +227,32 @@
       .py-4.py-md-5(titulo="Creación de procedimientos" :icono="require('@/assets/curso/temas/2.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Creación de procedimientos:
-            p es donde se establecen las buenas prácticas de prevención, conocimiento, identificación, documentación y cultura explicando cada paso.
+            h4 Creación de procedimientos
+            p Es donde se establecen las buenas prácticas de prevención, conocimiento, identificación, documentación y cultura explicando cada paso.
         
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2_2.svg', alt='')
       .py-4.py-md-5(titulo="Creación de documentos" :icono="require('@/assets/curso/temas/3.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Creación de documentos:
-            p se elaboran los documentos para registrar los procedimientos. 
+            h4 Creación de documentos
+            p Se elaboran los documentos para registrar los procedimientos. 
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3_3.svg', alt='')
 
       .py-4.py-md-5(titulo="Definir responsabilidades" :icono="require('@/assets/curso/temas/4.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Definir responsabilidades:
-            p se asigna a cada funcionario su rol frente al sistema y responsabilidades.
+            h4 Definir responsabilidades
+            p Se asigna a cada funcionario su rol frente al sistema y responsabilidades.
         
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4_4.svg', alt='')
       .py-4.py-md-5(titulo="Definir herramientas" :icono="require('@/assets/curso/temas/5.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Definir herramientas:
-            p se asignan las herramientas ofimáticas, informáticas y digitales para la gestión del sistema.
+            h4 Definir herramientas
+            p Se asignan las herramientas ofimáticas, informáticas y digitales para la gestión del sistema.
         
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/5_5.svg', alt='')
@@ -260,16 +260,16 @@
       .py-4.py-md-5(titulo="Difundir el sistema" :icono="require('@/assets/curso/temas/6.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Difundir el sistema:
-            p se presenta el sistema a todo el personal para su correcta implementación.
+            h4 Difundir el sistema
+            p Se presenta el sistema a todo el personal para su correcta implementación.
         
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6_6.svg', alt='')
       .py-4.py-md-5(titulo="Capacitar al personal" :icono="require('@/assets/curso/temas/7.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-5
-            h4 Capacitar al personal:
-            p se capacita y entrena al personal en la gestión del sistema tanto en inducción y  según cambios en las operaciones.
+            h4 Capacitar al personal
+            p Se capacita y entrena al personal en la gestión del sistema tanto en inducción y  según cambios en las operaciones.
         
           .col-lg-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7_7.svg', alt='')

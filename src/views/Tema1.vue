@@ -58,7 +58,7 @@
           )
             .imagen-superior.position-absolute(style='bottom:-4% ; left: 20%; z-index:2'): img(src='@/assets/curso/temas/img6.svg')
           .bloque-texto-g__texto.p-4
-            p.mb-0 Atención y servicio hacen una sociedad indisoluble y parte directa de la relación que se lleva con el cliente, que de estas dos acciones depende su permanencia en el tiempo.
+            p.mb-0 #[b Atención y servicio] hacen una sociedad indisoluble y parte directa de la relación que se lleva con el cliente, que de estas dos acciones depende su permanencia en el tiempo.
               br
               br
               | #[b Atención + servicio = servicio al cliente]

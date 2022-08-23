@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Completa los espacios y refuerza el conocimiento.
+          h2 Completa los espacios y refuerza el conocimiento
         p.mb-4 Retroalimentar mientras se evalúa por medio de búsqueda de palabras que hacen falta en los espacios las cuales están en el contenido temático.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

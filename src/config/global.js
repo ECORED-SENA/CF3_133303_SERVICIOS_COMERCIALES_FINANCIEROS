@@ -190,7 +190,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.3',
-            titulo: 'Sistema de administración de riesgo operativo Saro',
+            titulo: 'Sistema de Administración de Riesgo Operativo - SARO',
             hash: 't_4_3',
           },
           {
@@ -246,14 +246,14 @@ export default {
     {
       tema: 'Servicio al cliente',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Protocolos de servicio al cliente: introducción. [Video].',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Protocolos de servicio al cliente: introducción.</i> [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VdBU-D7dDXg',
     },
     {
       tema: 'Política comercial en las operaciones de caja',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Políticas financieras y comerciales. [Video].',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Políticas financieras y comerciales</i>. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=FWXq-BjMpAQ',
     },
@@ -261,14 +261,14 @@ export default {
       tema:
         '<em>Operaciones y riesgos en caja</em> - ejemplo como una organización hace la gestión.',
       referencia:
-        'Comunicaciones Internas Cugat. (2021). Cajas - Capacitación prevención de riesgos. [Video].',
+        'Comunicaciones Internas Cugat. (2021). <i>Cajas - Capacitación prevención de riesgos</i>. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ZPN4a7OlFu8',
     },
     {
       tema: 'Prevención de lavado de activos',
       referencia:
-        'Bancolombia. (2012). Sabes qué es el lavado de activos y cómo prevenirlo. [Video].',
+        'Bancolombia. (2012). <i>Sabes qué es el lavado de activos y cómo prevenirlo</i>. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=WT5YQ4qV9yY',
     },
@@ -323,7 +323,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Departamento Administrativo de la Función Pública. (2022). Guía de administración del riesgo. Departamento Administrativo de la Función Pública.',
+        'Departamento Administrativo de la Función Pública. (2022). <i>Guía de administración del riesgo</i>. Departamento Administrativo de la Función Pública.',
     },
     {
       referencia:
@@ -394,7 +394,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
