@@ -92,7 +92,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-7.mb-4.mb-md-0
-              h4(data-aos="fade-down") Diligenciamiento de formularios.
+              h4(data-aos="fade-down") Diligenciamiento de formularios
               p(data-aos="fade-down") El cliente diligencia los formularios pertinentes a los productos o servicios que desea adquirir o que van a generar un vínculo comercial con la entidad según sea el caso.
             .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img60.svg', alt='')
@@ -101,7 +101,7 @@
             .col-md-4.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img61.svg', alt='')          
             .col-md-7.mb-4.mb-md-0
-              h4(data-aos="fade-down") Verificación general.
+              h4(data-aos="fade-down") Verificación general
               p(data-aos="fade-down") Esta es la fase final en la identificación del cliente en la cual se hace una verificación total de los datos obtenidos a través de los diferentes formularios y soportes adjuntos.
 
     p(data-aos="fade-down")  Además, se hace un estudio de verificación del mercado en el que interactúa el cliente o proveedor, para hacer una comprobación de las operaciones que se realizan.
