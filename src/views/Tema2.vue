@@ -24,7 +24,7 @@
 
         p(data-aos="fade-down") Se debe tener en cuenta que las políticas comerciales tienen varias finalidades; a continuación, se mencionan algunas para que el aprendiz los conceptualice de manera adecuada.
       .col-lg-6    
-        ul.lista-ul--color.px-5  
+        ul.lista-ul--color.px-5.mvp  
           li 
             i.lista-ul__vineta
             p.mb-0 Establecer medidas de prevención del riesgo financiero.

@@ -208,8 +208,8 @@
   transform: translateX(15%) translateY(50%)
   @media (max-width: $bp-max-lg)
     position: inherit
-    transform: none  
-    display: none     
+    transform: translateX(-80%) translateY(10%)
+   
 
 .bg4
   background-color: #F6FBD1    
@@ -236,7 +236,7 @@
   position: absolute
   bottom: 50%
   left: 0
-  transform: translateX(50%) translateY(40%)
+  transform: translateX(50%) translateY(45%)
   @media (max-width: $bp-max-lg)
     position: inherit
     transform: none    
@@ -249,13 +249,23 @@
 .imgs-flotantes2 img.img-flotante2
   animation: float2 3.5s ease-in-out infinite alternate
   position: absolute
-  top: 0%
+  top: -5%
   left: 0%
   width: 1219px
   @media (max-width: $bp-min-sm)
     width: 0px
     left: 1%
     display: none 
+
+.mv
+  @media (max-width: $bp-min-sm)
+    bottom: 10% !important
+    left: 25% !important
+    width: 130px !important
+
+.mvp
+  @media (max-width: $bp-min-sm)
+    padding: 0 !important    
 
 .slyder-a__bullets__item:hover
   background-color: #B0C710 

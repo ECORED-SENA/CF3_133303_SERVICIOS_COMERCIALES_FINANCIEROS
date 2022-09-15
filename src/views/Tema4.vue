@@ -39,7 +39,7 @@
     .row.justify-content-center.align-items-center.mb-5.bg2.px-4.imgs-flotantes2(data-aos="fade-left")
       img.img-flotante2(data-aos="zoom-in")(src='@/assets/curso/temas/flotante3.svg' style='top: -10% !important; width: 1217px', alt='Imagen decorativa')                 
       .col-lg-6
-        ul.lista-ul--color.px-5.mt-2  
+        ul.lista-ul--color.px-5.mt-2.mvp  
           li 
             i.lista-ul__vineta
             p.mb-0 La entidad hace el reporte del posible caso de lavado de activos o financiación del terrorismo a la UIAF.
@@ -159,8 +159,8 @@
         .tarjeta.tarjeta-flip.color-primario.text-center
           .tarjeta-flip__contenedor
             .tarjeta-flip__img
-              img.mb-4(src='@/assets/curso/temas/img65.svg', alt='Identificación')
-              h5.bgflip.p-3.mx-3.text-white Identificación
+              img.mb-5(src='@/assets/curso/temas/img65.svg', alt='Identificación')
+              h5.mt-3.bgflip.p-3.mx-3.text-white Identificación
             .tarjeta-flip__contenido.p-4
               h5 Identificación
               p.mb-0 Se evalúa el qué, quién y cuándo se realizan las actividades, es decir se mira el contexto estratégico y organizacional de la empresa, sus procesos y la identificación de los riesgos asociados a cada uno.   
@@ -168,8 +168,8 @@
         .tarjeta.tarjeta-flip.color-primario.text-center
           .tarjeta-flip__contenedor
             .tarjeta-flip__img
-              img.mb-4(src='@/assets/curso/temas/img66.svg', alt='Medición')
-              h5.bgflip.p-3.mx-3.text-white Medición
+              img.mb-5(src='@/assets/curso/temas/img66.svg', alt='Medición')
+              h5.mt-3.bgflip.p-3.mx-3.text-white Medición
             .tarjeta-flip__contenido.p-4
               h5 Medición
               p.mb-0 Se califica el impacto en caso de materializarse el riesgo asociado, es decir una vez identificados los riesgos se mide la magnitud o consecuencia que genera el riesgo en caso de materializarse y su probabilidad si es alta, media o baja.

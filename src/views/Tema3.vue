@@ -11,10 +11,10 @@
 
     p(data-aos="fade-down") Las principales operaciones son:
 
-    .row.justify-content-center.align-items-center.mb-5.bg2.p-4.imgs-flotantes2(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5.bg2.p-4.py-0.imgs-flotantes2(data-aos="fade-left")
       img.img-flotante2(data-aos="zoom-in")(src='@/assets/curso/temas/flotante3.svg', alt='Imagen decorativa')                 
       .col-lg-6
-        ul.lista-ul--color.px-5.mt-2  
+        ul.lista-ul--color.px-5.mt-2.mvp  
           li 
             i.lista-ul__vineta
             p.mb-0 Consignaciones a otras cuentas o cuenta propia.
@@ -177,7 +177,7 @@
         .row.justify-content-center.align-items-center.mb-5.bg2.px-4.imgs-flotantes2(data-aos="fade-left")
           img.img-flotante2(data-aos="zoom-in")(src='@/assets/curso/temas/flotante4.svg' style='width: 905px;', alt='Imagen decorativa')                 
           .col-lg-6
-            ul.lista-ul--color.px-5.mt-2  
+            ul.lista-ul--color.px-5.mt-2.mvp  
               li 
                 i.lista-ul__vineta
                 p.mb-0 Dirección general.
@@ -331,7 +331,7 @@
     .row.justify-content-center.align-items-center.mb-5.bg2.p-4.imgs-flotantes2(data-aos="fade-left")
       img.img-flotante2(data-aos="zoom-in")(src='@/assets/curso/temas/flotante3.svg', alt='Imagen decorativa')                 
       .col-lg-6
-        ul.lista-ul--color.px-5.mt-2  
+        ul.lista-ul--color.px-5.mt-2.mvp  
           li 
             i.lista-ul__vineta
             p.mb-0 Participación activa de los organismos públicos haciendo gestión de prevención y control.
@@ -349,7 +349,7 @@
             p.mb-0 Coordinar y diseñar estrategias públicas que apoyen a las entidades para la mitigación de estas actividades ilegales.
       .col-lg-6.position-relative 
         .imagen-absolute5
-          img.mt-4(data-aos="zoom-in")(src='@/assets/curso/temas/img50.svg', alt='')    
+          img.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img50.svg', alt='')    
 
 </template>
 

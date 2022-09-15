@@ -38,16 +38,16 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
       .row.justify-content-center.align-items-start(titulo="Atención") 
-        .col-lg-7.my-3
+        .col-lg-6.my-3
           p Es cuando se interactúa directamente con el cliente, es decir, cómo se comunica y trata, por ejemplo, cuando lo saludamos y le ofrecemos un producto o servicio que tiene la entidad. 
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img3.png', alt='')
+          img.img-a.img-t(src='@/assets/curso/temas/img4.png', alt='')
 
       .row.justify-content-center.align-items-start(titulo="Servicio") 
-        .col-lg-7.my-3
+        .col-lg-6.my-3
           p Es la parte indirecta que siente el cliente, como el cumplimiento de los acuerdos con la entidad, el ambiente tanto de aseo como acceso a los servicios o productos ofertados, el cumplimiento con la oferta de valor, la agilidad y la respuesta eficiente a sus requerimientos.
         .col-lg-5
-          img.img-a.img-t(src='@/assets/curso/temas/img4.png', alt='')          
+          img.img-a.img-t(src='@/assets/curso/temas/img3.png', alt='')          
    
     p(data-aos="fade-down").mb-5 Entendiendo esto se puede decir que:  
     .row.justify-content-center.align-items-center.mb-5           
@@ -56,7 +56,7 @@
           .bloque-texto-g__img(
             :style="{'background-image':`url(${require('@/assets/curso/temas/img5.svg')})`}"
           )
-            .imagen-superior.position-absolute(style='bottom:-4% ; left: 20%; z-index:2'): img(src='@/assets/curso/temas/img6.svg')
+            .imagen-superior.position-absolute.mv(style='bottom:-4% ; left: 20%; z-index:2'): img(src='@/assets/curso/temas/img6.svg')
           .bloque-texto-g__texto.p-4
             p.mb-0 #[b Atención y servicio] hacen una sociedad indisoluble y parte directa de la relación que se lleva con el cliente, que de estas dos acciones depende su permanencia en el tiempo.
               br
@@ -73,7 +73,7 @@
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-7.bg2.p-4.imgs-flotantes(data-aos="fade-left") 
         img.img-flotante(data-aos="zoom-in")(src='@/assets/curso/temas/flotante1.svg', alt='Imagen decorativa')      
-        ul.lista-ul--color.px-5
+        ul.lista-ul--color.px-5.mvp
           li 
             i.lista-ul__vineta
             p.mb-0 Un objetivo que muestra para que fue creado.
@@ -155,10 +155,10 @@
       h2 1.4 Técnicas de comunicación
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-6
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.png', alt='')
+      .col-lg-5
+        img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.png', alt='')
 
-      .col-lg-6.my-3
+      .col-lg-7.my-3
         p(data-aos="fade-down") Teniendo en cuenta que la comunicación en la humanidad es la base del relacionamiento y acercamiento que ayuda a la interacción entre las personas y, por ende, a la comunión y entendimiento para satisfacer las necesidades de las personas, es importante conocer cómo se establece este contacto con los clientes, pues en cualquier organización se deben generar canales tanto para sus clientes internos y, externos como para las partes interesadas.
 
         p(data-aos="fade-down") Se debe tener claro que la comunicación es el medio para expresar sentimientos, ideas, opiniones o cualquier tipo de información ya sea de forma oral, escrita, gestual o señas directamente o utilizando una variedad de herramientas. 
