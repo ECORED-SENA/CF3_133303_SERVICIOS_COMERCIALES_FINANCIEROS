@@ -50,7 +50,7 @@
 
           li 
             i.lista-ul__vineta
-            p.mb-0 La Fiscalía General de la Nación y la Policía Judicial reciben el reporte de la UIAF y hacen la respectiva investigación si la investigación arroja que se está cometiendo el delito se pasa a la rama judicial.
+            p.mb-0 La Fiscalía General de la Nación y la Policía Judicial reciben el reporte de la UIAF y hacen la respectiva investigación, si la investigación arroja que se está cometiendo el delito se pasa a la rama judicial.
 
           li 
             i.lista-ul__vineta

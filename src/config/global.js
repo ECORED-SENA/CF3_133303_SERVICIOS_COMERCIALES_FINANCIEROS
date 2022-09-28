@@ -268,7 +268,7 @@ export default {
     {
       tema: 'Prevención de lavado de activos',
       referencia:
-        'Bancolombia. (2012). <i>Sabes qué es el lavado de activos y cómo prevenirlo</i>. [Video].',
+        'Bancolombia. (2012). <i>¿Sabes qué es el lavado de activos y cómo prevenirlo?</i>. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=WT5YQ4qV9yY',
     },

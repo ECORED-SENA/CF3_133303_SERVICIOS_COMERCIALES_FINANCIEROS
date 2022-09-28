@@ -175,7 +175,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-8
         .row.justify-content-center.align-items-center.mb-5.bg2.px-4.imgs-flotantes2(data-aos="fade-left")
-          img.img-flotante2(data-aos="zoom-in")(src='@/assets/curso/temas/flotante4.svg' style='width: 905px;', alt='Imagen decorativa')                 
+          img.img-flotante2.pe-5(data-aos="zoom-in")(src='@/assets/curso/temas/flotante4.svg' style='width: 905px;', alt='Imagen decorativa')                 
           .col-lg-6
             ul.lista-ul--color.px-5.mt-2.mvp  
               li 

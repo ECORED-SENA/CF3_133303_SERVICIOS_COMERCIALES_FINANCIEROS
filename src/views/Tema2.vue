@@ -31,7 +31,7 @@
 
           li 
             i.lista-ul__vineta
-            p.mb-0 Evitar el sobre endeudamiento de un cliente.
+            p.mb-0 Evitar el sobreendeudamiento de un cliente.
 
           li 
             i.lista-ul__vineta
@@ -51,7 +51,7 @@
 
           li 
             i.lista-ul__vineta
-            p.mb-0 Tener claridad cuando y porque no se acepta o niega un crédito. 
+            p.mb-0 Tener claridad cuándo y por qué no se acepta o niega un crédito. 
 
     p(data-aos="fade-down").mb-5 Por otro lado,
 
@@ -169,7 +169,7 @@
 
         p(data-aos="fade-down") Por ejemplo, una página web según su razón de ser, brinda el servicio, pero con unas condiciones como respeto a los derechos de autor, tipo de contenido que se puede divulgar, entre otras.
 
-        p(data-aos="fade-down").mb-5 A nivel financiero y dependiendo el producto o servicio se establecen condiciones, que se presentarán en la siguiente tabla : 
+        p(data-aos="fade-down").mb-5 A nivel financiero y dependiendo el producto o servicio se establecen condiciones, que se presentarán en la siguiente tabla: 
         .row.justify-content-start.align-items-center      
           .col-lg-7
             a.anexo.mb-4(:href="obtenerLink('downloads/servicios_financieros.pdf')" target="_blank")
